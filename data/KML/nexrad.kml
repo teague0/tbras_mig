@@ -1,0 +1,5731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <!-- generated on Sun May 01 06:38:12 EDT 2022 -->
+  <Document>
+  <name>NEXRAD</name>
+<Placemark id="1">
+  <name><![CDATA[LA CROSSE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KARX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 43.822778</td></tr>
+    <tr><td>LONGITUDE: -91.191111</td></tr>
+    <tr><td>ELEVATION: 1357 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-91.191111,43.822778,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="2">
+  <name><![CDATA[BIRMINGHAM]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KBMX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.172417</td></tr>
+    <tr><td>LONGITUDE: -86.770167</td></tr>
+    <tr><td>ELEVATION: 759 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-86.770167,33.172417,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="3">
+  <name><![CDATA[KEY W]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KBYX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 24.5975</td></tr>
+    <tr><td>LONGITUDE: -81.703167</td></tr>
+    <tr><td>ELEVATION: 89 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-81.703167,24.5975,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="4">
+  <name><![CDATA[LAUGHLIN AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KDFX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 29.273139</td></tr>
+    <tr><td>LONGITUDE: -100.280333</td></tr>
+    <tr><td>ELEVATION: 1196 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-100.280333,29.273139,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="5">
+  <name><![CDATA[JACKSON BRANDON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KDGX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 32.279944</td></tr>
+    <tr><td>LONGITUDE: -89.984444</td></tr>
+    <tr><td>ELEVATION: 609 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-89.984444,32.279944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="6">
+  <name><![CDATA[DOVER AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KDOX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.825767</td></tr>
+    <tr><td>LONGITUDE: -75.440117</td></tr>
+    <tr><td>ELEVATION: 164 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-75.440117,38.825767,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="7">
+  <name><![CDATA[TUCSON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KEMX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 31.89365</td></tr>
+    <tr><td>LONGITUDE: -110.63025</td></tr>
+    <tr><td>ELEVATION: 5319 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-110.63025,31.89365,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="8">
+  <name><![CDATA[FT RUCKER]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KEOX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 31.460556</td></tr>
+    <tr><td>LONGITUDE: -85.459389</td></tr>
+    <tr><td>ELEVATION: 537 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-85.459389,31.460556,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="9">
+  <name><![CDATA[CANNON AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KFDX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 34.634167</td></tr>
+    <tr><td>LONGITUDE: -103.618889</td></tr>
+    <tr><td>ELEVATION: 4698 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-103.618889,34.634167,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="10">
+  <name><![CDATA[DALLAS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KFWS</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 32.573</td></tr>
+    <tr><td>LONGITUDE: -97.30315</td></tr>
+    <tr><td>ELEVATION: 777 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-97.30315,32.573,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="11">
+  <name><![CDATA[FT WAYNE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KIWX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.358611</td></tr>
+    <tr><td>LONGITUDE: -85.7</td></tr>
+    <tr><td>ELEVATION: 1056 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-85.7,41.358611,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="12">
+  <name><![CDATA[JACKSONVILLE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KJAX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 30.484633</td></tr>
+    <tr><td>LONGITUDE: -81.7019</td></tr>
+    <tr><td>ELEVATION: 160 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-81.7019,30.484633,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="13">
+  <name><![CDATA[CHICAGO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLOT</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.604444</td></tr>
+    <tr><td>LONGITUDE: -88.084444</td></tr>
+    <tr><td>ELEVATION: 760 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-88.084444,41.604444,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="14">
+  <name><![CDATA[OMAHA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KOAX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.320369</td></tr>
+    <tr><td>LONGITUDE: -96.366819</td></tr>
+    <tr><td>ELEVATION: 1262 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-96.366819,41.320369,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="15">
+  <name><![CDATA[MINOT AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMBX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 48.393056</td></tr>
+    <tr><td>LONGITUDE: -100.864444</td></tr>
+    <tr><td>ELEVATION: 1590 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-100.864444,48.393056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="16">
+  <name><![CDATA[MOREHEAD CITY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMHX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 34.775908</td></tr>
+    <tr><td>LONGITUDE: -76.876189</td></tr>
+    <tr><td>ELEVATION: 145 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-76.876189,34.775908,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="17">
+  <name><![CDATA[MARQUETTE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMQT</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 46.531111</td></tr>
+    <tr><td>LONGITUDE: -87.548333</td></tr>
+    <tr><td>ELEVATION: 1525 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-87.548333,46.531111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="18">
+  <name><![CDATA[PADUCAH]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KPAH</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 37.068333</td></tr>
+    <tr><td>LONGITUDE: -88.771944</td></tr>
+    <tr><td>ELEVATION: 506 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-88.771944,37.068333,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="19">
+  <name><![CDATA[PUEBLO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KPUX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.45955</td></tr>
+    <tr><td>LONGITUDE: -104.18135</td></tr>
+    <tr><td>ELEVATION: 5363 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-104.18135,38.45955,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="20">
+  <name><![CDATA[GREAT FALLS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KTFX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 47.459583</td></tr>
+    <tr><td>LONGITUDE: -111.385333</td></tr>
+    <tr><td>ELEVATION: 3805 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-111.385333,47.459583,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="21">
+  <name><![CDATA[RAPID CITY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KUDX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 44.124722</td></tr>
+    <tr><td>LONGITUDE: -102.83</td></tr>
+    <tr><td>ELEVATION: 3195 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-102.83,44.124722,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="22">
+  <name><![CDATA[FT DRUM]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KTYX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 43.755694</td></tr>
+    <tr><td>LONGITUDE: -75.679861</td></tr>
+    <tr><td>ELEVATION: 1960 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-75.679861,43.755694,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="23">
+  <name><![CDATA[ANDERSEN AFB AGANA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PGUA</td></tr>
+    <tr><td>COUNTRY: GUAM</td></tr>
+    <tr><td>LATITUDE: 13.455833</td></tr>
+    <tr><td>LONGITUDE: 144.811111</td></tr>
+    <tr><td>ELEVATION: 386 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>144.811111,13.455833,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="24">
+  <name><![CDATA[MOLOKAI]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PHMO</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 21.132778</td></tr>
+    <tr><td>LONGITUDE: -157.180278</td></tr>
+    <tr><td>ELEVATION: 1444 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-157.180278,21.132778,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="25">
+  <name><![CDATA[NASHVILLE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TBNA</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.98</td></tr>
+    <tr><td>LONGITUDE: -86.661944</td></tr>
+    <tr><td>ELEVATION: 817 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-86.661944,35.98,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="26">
+  <name><![CDATA[CLEVELAND]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TLVE</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.29</td></tr>
+    <tr><td>LONGITUDE: -82.008056</td></tr>
+    <tr><td>ELEVATION: 932 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-82.008056,41.29,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="27">
+  <name><![CDATA[FT LAUDERDALE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TFLL</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 26.143056</td></tr>
+    <tr><td>LONGITUDE: -80.343889</td></tr>
+    <tr><td>ELEVATION: 121 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-80.343889,26.143056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="28">
+  <name><![CDATA[NYC JFK]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TJFK</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.588889</td></tr>
+    <tr><td>LONGITUDE: -73.881111</td></tr>
+    <tr><td>ELEVATION: 112 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-73.881111,40.588889,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="29">
+  <name><![CDATA[WASHINGTON DULLES]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TIAD</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.083889</td></tr>
+    <tr><td>LONGITUDE: -77.528889</td></tr>
+    <tr><td>ELEVATION: 472 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-77.528889,39.083889,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="30">
+  <name><![CDATA[LAS VEGAS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KESX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.70135</td></tr>
+    <tr><td>LONGITUDE: -114.89165</td></tr>
+    <tr><td>ELEVATION: 4948 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-114.89165,35.70135,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="31">
+  <name><![CDATA[BISMARCK]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KBIS</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 46.770833</td></tr>
+    <tr><td>LONGITUDE: -100.760556</td></tr>
+    <tr><td>ELEVATION: 1755 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-100.760556,46.770833,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="32">
+  <name><![CDATA[CHARLESTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KCLX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 32.655528</td></tr>
+    <tr><td>LONGITUDE: -81.042194</td></tr>
+    <tr><td>ELEVATION: 229 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-81.042194,32.655528,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="33">
+  <name><![CDATA[EL PASO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KEPZ</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 31.873056</td></tr>
+    <tr><td>LONGITUDE: -106.698</td></tr>
+    <tr><td>ELEVATION: 4218 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-106.698,31.873056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="34">
+  <name><![CDATA[FLAGSTAFF]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KFSX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 34.574333</td></tr>
+    <tr><td>LONGITUDE: -111.198444</td></tr>
+    <tr><td>ELEVATION: 7514 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-111.198444,34.574333,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="35">
+  <name><![CDATA[CINCINNATI]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KILN</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.420483</td></tr>
+    <tr><td>LONGITUDE: -83.82145</td></tr>
+    <tr><td>ELEVATION: 1170 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-83.82145,39.420483,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="36">
+  <name><![CDATA[LUBBOCK]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLBB</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.654139</td></tr>
+    <tr><td>LONGITUDE: -101.814167</td></tr>
+    <tr><td>ELEVATION: 3378 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-101.814167,33.654139,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="37">
+  <name><![CDATA[TOPEKA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KTWX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.99695</td></tr>
+    <tr><td>LONGITUDE: -96.23255</td></tr>
+    <tr><td>ELEVATION: 1415 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-96.23255,38.99695,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="38">
+  <name><![CDATA[SPOKANE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KOTX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 47.680417</td></tr>
+    <tr><td>LONGITUDE: -117.626778</td></tr>
+    <tr><td>ELEVATION: 2449 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-117.626778,47.680417,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="39">
+  <name><![CDATA[CHARLESTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KRLX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.311111</td></tr>
+    <tr><td>LONGITUDE: -81.722778</td></tr>
+    <tr><td>ELEVATION: 1213 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-81.722778,38.311111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="40">
+  <name><![CDATA[SHREVEPORT]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KSHV</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 32.450833</td></tr>
+    <tr><td>LONGITUDE: -93.84125</td></tr>
+    <tr><td>ELEVATION: 387 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-93.84125,32.450833,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="41">
+  <name><![CDATA[VANDENBERG AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KVBX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 34.83855</td></tr>
+    <tr><td>LONGITUDE: -120.397917</td></tr>
+    <tr><td>ELEVATION: 1354 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-120.397917,34.83855,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="42">
+  <name><![CDATA[BETHEL FAA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PABC</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 60.791944</td></tr>
+    <tr><td>LONGITUDE: -161.876389</td></tr>
+    <tr><td>ELEVATION: 193 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-161.876389,60.791944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="43">
+  <name><![CDATA[EDWARDS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KEYX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.09785</td></tr>
+    <tr><td>LONGITUDE: -117.56075</td></tr>
+    <tr><td>ELEVATION: 2873 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-117.56075,35.09785,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="44">
+  <name><![CDATA[MIDDLETON IS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PAIH</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 59.460767</td></tr>
+    <tr><td>LONGITUDE: -146.303447</td></tr>
+    <tr><td>ELEVATION: 132 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-146.303447,59.460767,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="45">
+  <name><![CDATA[MIDDLETON IS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PAIH</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 59.460767</td></tr>
+    <tr><td>LONGITUDE: -146.303447</td></tr>
+    <tr><td>ELEVATION: 132 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-146.303447,59.460767,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="46">
+  <name><![CDATA[KING SALMON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PAKC</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 58.679444</td></tr>
+    <tr><td>LONGITUDE: -156.629444</td></tr>
+    <tr><td>ELEVATION: 144 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-156.629444,58.679444,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="47">
+  <name><![CDATA[KADENA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:RODN</td></tr>
+    <tr><td>COUNTRY: JAPAN</td></tr>
+    <tr><td>LATITUDE: 26.3078</td></tr>
+    <tr><td>LONGITUDE: 127.903469</td></tr>
+    <tr><td>ELEVATION: 412 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>127.903469,26.3078,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="48">
+  <name><![CDATA[DODGE CITY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KDDC</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 37.760833</td></tr>
+    <tr><td>LONGITUDE: -99.968889</td></tr>
+    <tr><td>ELEVATION: 2671 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-99.968889,37.760833,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="49">
+  <name><![CDATA[COLUMBIA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KCAE</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.948722</td></tr>
+    <tr><td>LONGITUDE: -81.118278</td></tr>
+    <tr><td>ELEVATION: 345 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-81.118278,33.948722,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="50">
+  <name><![CDATA[ABERDEEN]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KABR</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 45.455833</td></tr>
+    <tr><td>LONGITUDE: -98.413333</td></tr>
+    <tr><td>ELEVATION: 1383 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-98.413333,45.455833,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="51">
+  <name><![CDATA[DETROIT]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KDTX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 42.7</td></tr>
+    <tr><td>LONGITUDE: -83.471667</td></tr>
+    <tr><td>ELEVATION: 1216 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-83.471667,42.7,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="52">
+  <name><![CDATA[ALBANY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KENX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 42.586556</td></tr>
+    <tr><td>LONGITUDE: -74.064083</td></tr>
+    <tr><td>ELEVATION: 1935 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-74.064083,42.586556,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="53">
+  <name><![CDATA[GREEN BAY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KGRB</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 44.498633</td></tr>
+    <tr><td>LONGITUDE: -88.111111</td></tr>
+    <tr><td>ELEVATION: 823 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-88.111111,44.498633,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="54">
+  <name><![CDATA[FT HOOD]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KGRK</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 30.721833</td></tr>
+    <tr><td>LONGITUDE: -97.382944</td></tr>
+    <tr><td>ELEVATION: 603 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-97.382944,30.721833,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="55">
+  <name><![CDATA[LOUISVILLE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLVX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 37.975278</td></tr>
+    <tr><td>LONGITUDE: -85.943889</td></tr>
+    <tr><td>ELEVATION: 833 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-85.943889,37.975278,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="56">
+  <name><![CDATA[PORTLAND]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KGYX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 43.891306</td></tr>
+    <tr><td>LONGITUDE: -70.256361</td></tr>
+    <tr><td>ELEVATION: 474 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-70.256361,43.891306,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="57">
+  <name><![CDATA[JACKSON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KJKL</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 37.590833</td></tr>
+    <tr><td>LONGITUDE: -83.313056</td></tr>
+    <tr><td>ELEVATION: 1461 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-83.313056,37.590833,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="58">
+  <name><![CDATA[SAN FRANCISCO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMUX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 37.155222</td></tr>
+    <tr><td>LONGITUDE: -121.898444</td></tr>
+    <tr><td>ELEVATION: 3550 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-121.898444,37.155222,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="59">
+  <name><![CDATA[GRAND FORKS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMVX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 47.527778</td></tr>
+    <tr><td>LONGITUDE: -97.325556</td></tr>
+    <tr><td>ELEVATION: 1083 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-97.325556,47.527778,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="60">
+  <name><![CDATA[RENO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KRGX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.754056</td></tr>
+    <tr><td>LONGITUDE: -119.462028</td></tr>
+    <tr><td>ELEVATION: 8396 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-119.462028,39.754056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="61">
+  <name><![CDATA[PORTLAND]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KRTX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 45.715039</td></tr>
+    <tr><td>LONGITUDE: -122.965</td></tr>
+    <tr><td>ELEVATION: 1728 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-122.965,45.715039,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="62">
+  <name><![CDATA[HASTINGS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KUEX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.320833</td></tr>
+    <tr><td>LONGITUDE: -98.441944</td></tr>
+    <tr><td>ELEVATION: 2057 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-98.441944,40.320833,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="63">
+  <name><![CDATA[LAJES AB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:LPLA</td></tr>
+    <tr><td>COUNTRY: AZORES</td></tr>
+    <tr><td>LATITUDE: 38.73028</td></tr>
+    <tr><td>LONGITUDE: -27.32167</td></tr>
+    <tr><td>ELEVATION: 3334 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-27.32167,38.73028,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="64">
+  <name><![CDATA[ANCHORAGE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PAHG</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 60.725914</td></tr>
+    <tr><td>LONGITUDE: -151.351467</td></tr>
+    <tr><td>ELEVATION: 356 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-151.351467,60.725914,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="65">
+  <name><![CDATA[S SHORE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PHWA</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 19.095</td></tr>
+    <tr><td>LONGITUDE: -155.568889</td></tr>
+    <tr><td>ELEVATION: 1461 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-155.568889,19.095,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="66">
+  <name><![CDATA[SAN JUAN]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TJUA</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 18.115667</td></tr>
+    <tr><td>LONGITUDE: -66.078167</td></tr>
+    <tr><td>ELEVATION: 2958 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-66.078167,18.115667,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="67">
+  <name><![CDATA[KUNSAN]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:RKJK</td></tr>
+    <tr><td>COUNTRY: KOREA, SOUTH</td></tr>
+    <tr><td>LATITUDE: 35.924167</td></tr>
+    <tr><td>LONGITUDE: 126.622222</td></tr>
+    <tr><td>ELEVATION: 192 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>126.622222,35.924167,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="68">
+  <name><![CDATA[BEALE AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KBBX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.495639</td></tr>
+    <tr><td>LONGITUDE: -121.631611</td></tr>
+    <tr><td>ELEVATION: 221 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-121.631611,39.495639,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="69">
+  <name><![CDATA[MOBILE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMOB</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 30.679444</td></tr>
+    <tr><td>LONGITUDE: -88.24</td></tr>
+    <tr><td>ELEVATION: 289 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-88.24,30.679444,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="70">
+  <name><![CDATA[POCATELLO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KSFX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 43.1056</td></tr>
+    <tr><td>LONGITUDE: -112.686133</td></tr>
+    <tr><td>ELEVATION: 4539 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-112.686133,43.1056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="71">
+  <name><![CDATA[DALLAS FT WORTH]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TDFW</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.065</td></tr>
+    <tr><td>LONGITUDE: -96.918056</td></tr>
+    <tr><td>ELEVATION: 584 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-96.918056,33.065,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="72">
+  <name><![CDATA[BOSTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KBOX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.955778</td></tr>
+    <tr><td>LONGITUDE: -71.136861</td></tr>
+    <tr><td>ELEVATION: 232 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-71.136861,41.955778,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="73">
+  <name><![CDATA[AUSTIN SAN ANTONIO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KEWX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 29.704056</td></tr>
+    <tr><td>LONGITUDE: -98.028611</td></tr>
+    <tr><td>ELEVATION: 767 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-98.028611,29.704056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="74">
+  <name><![CDATA[FT CAMPBELL]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KHPX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 36.736972</td></tr>
+    <tr><td>LONGITUDE: -87.285583</td></tr>
+    <tr><td>ELEVATION: 613 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-87.285583,36.736972,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="75">
+  <name><![CDATA[MISSOULA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMSX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 47.041</td></tr>
+    <tr><td>LONGITUDE: -113.986222</td></tr>
+    <tr><td>ELEVATION: 7978 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-113.986222,47.041,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="76">
+  <name><![CDATA[NEW ORLEANS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TMSY</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 30.021944</td></tr>
+    <tr><td>LONGITUDE: -90.403056</td></tr>
+    <tr><td>ELEVATION: 98 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-90.403056,30.021944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="77">
+  <name><![CDATA[STATE COLLEGE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KCCX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.923167</td></tr>
+    <tr><td>LONGITUDE: -78.003722</td></tr>
+    <tr><td>ELEVATION: 2486 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-78.003722,40.923167,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="78">
+  <name><![CDATA[KANSAS CITY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KEAX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.81025</td></tr>
+    <tr><td>LONGITUDE: -94.264472</td></tr>
+    <tr><td>ELEVATION: 1092 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-94.264472,38.81025,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="79">
+  <name><![CDATA[ELKO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLRX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.73955</td></tr>
+    <tr><td>LONGITUDE: -116.8027</td></tr>
+    <tr><td>ELEVATION: 6895 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-116.8027,40.73955,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="80">
+  <name><![CDATA[OKLAHOMA CITY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KTLX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.333361</td></tr>
+    <tr><td>LONGITUDE: -97.277761</td></tr>
+    <tr><td>ELEVATION: 1278 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-97.277761,35.333361,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="81">
+  <name><![CDATA[WASHINGTON NATL]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TDCA</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.758889</td></tr>
+    <tr><td>LONGITUDE: -76.961944</td></tr>
+    <tr><td>ELEVATION: 344 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-76.961944,38.758889,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="82">
+  <name><![CDATA[PITTSBURGH]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TPIT</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.501111</td></tr>
+    <tr><td>LONGITUDE: -80.486111</td></tr>
+    <tr><td>ELEVATION: 1385 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-80.486111,40.501111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="83">
+  <name><![CDATA[EUREKA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KBHX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.498583</td></tr>
+    <tr><td>LONGITUDE: -124.292167</td></tr>
+    <tr><td>ELEVATION: 2516 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-124.292167,40.498583,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="84">
+  <name><![CDATA[BINGHAMTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KBGM</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 42.199694</td></tr>
+    <tr><td>LONGITUDE: -75.984722</td></tr>
+    <tr><td>ELEVATION: 1703 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-75.984722,42.199694,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="85">
+  <name><![CDATA[GREER]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KGSP</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 34.883306</td></tr>
+    <tr><td>LONGITUDE: -82.219833</td></tr>
+    <tr><td>ELEVATION: 1069 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-82.219833,34.883306,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="86">
+  <name><![CDATA[NEW ORLEANS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLIX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 30.336667</td></tr>
+    <tr><td>LONGITUDE: -89.825417</td></tr>
+    <tr><td>ELEVATION: 179 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-89.825417,30.336667,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="87">
+  <name><![CDATA[SAN ANGELO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KSJT</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 31.371278</td></tr>
+    <tr><td>LONGITUDE: -100.4925</td></tr>
+    <tr><td>ELEVATION: 2004 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-100.4925,31.371278,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="88">
+  <name><![CDATA[S KAUAI]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PHKI</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 21.893889</td></tr>
+    <tr><td>LONGITUDE: -159.5525</td></tr>
+    <tr><td>ELEVATION: 340 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-159.5525,21.893889,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="89">
+  <name><![CDATA[MEMPHIS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TMEM</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 34.896111</td></tr>
+    <tr><td>LONGITUDE: -89.993056</td></tr>
+    <tr><td>ELEVATION: 482 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-89.993056,34.896111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="90">
+  <name><![CDATA[COVINGTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TCVG</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.898056</td></tr>
+    <tr><td>LONGITUDE: -84.58</td></tr>
+    <tr><td>ELEVATION: 1053 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-84.58,38.898056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="91">
+  <name><![CDATA[DETROIT]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TDTW</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 42.111111</td></tr>
+    <tr><td>LONGITUDE: -83.515</td></tr>
+    <tr><td>ELEVATION: 771 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-83.515,42.111111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="92">
+  <name><![CDATA[LOUISVILLE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TSDF</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.046111</td></tr>
+    <tr><td>LONGITUDE: -85.61</td></tr>
+    <tr><td>ELEVATION: 732 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-85.61,38.046111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="93">
+  <name><![CDATA[MILWAUKEE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TMKE</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 42.818889</td></tr>
+    <tr><td>LONGITUDE: -88.046111</td></tr>
+    <tr><td>ELEVATION: 932 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-88.046111,42.818889,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="94">
+  <name><![CDATA[JOSE APONTE DE LA TORR]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TJRV</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 18.256</td></tr>
+    <tr><td>LONGITUDE: -65.637</td></tr>
+    <tr><td>ELEVATION: 50 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-65.637,18.256,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="95">
+  <name><![CDATA[ANDREWS AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TADW</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.695</td></tr>
+    <tr><td>LONGITUDE: -76.845</td></tr>
+    <tr><td>ELEVATION: 344 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-76.845,38.695,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="96">
+  <name><![CDATA[CHICAGO OHARE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TORD</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.796944</td></tr>
+    <tr><td>LONGITUDE: -87.858056</td></tr>
+    <tr><td>ELEVATION: 745 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-87.858056,41.796944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="97">
+  <name><![CDATA[ST LOUIS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TSTL</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.805</td></tr>
+    <tr><td>LONGITUDE: -90.488889</td></tr>
+    <tr><td>ELEVATION: 646 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-90.488889,38.805,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="98">
+  <name><![CDATA[WICHITA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TICH</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 37.506944</td></tr>
+    <tr><td>LONGITUDE: -97.436944</td></tr>
+    <tr><td>ELEVATION: 1352 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-97.436944,37.506944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="99">
+  <name><![CDATA[BILLINGS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KBLX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 45.853778</td></tr>
+    <tr><td>LONGITUDE: -108.606806</td></tr>
+    <tr><td>ELEVATION: 3703 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-108.606806,45.853778,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="100">
+  <name><![CDATA[HOULTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KCBW</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 46.03925</td></tr>
+    <tr><td>LONGITUDE: -67.806431</td></tr>
+    <tr><td>ELEVATION: 860 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-67.806431,46.03925,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="101">
+  <name><![CDATA[MIAMI]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KAMX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 25.611083</td></tr>
+    <tr><td>LONGITUDE: -80.412667</td></tr>
+    <tr><td>ELEVATION: 111 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-80.412667,25.611083,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="102">
+  <name><![CDATA[SEATTLE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KATX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 48.194611</td></tr>
+    <tr><td>LONGITUDE: -122.495694</td></tr>
+    <tr><td>ELEVATION: 642 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-122.495694,48.194611,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="103">
+  <name><![CDATA[CORPUS CHRISTI]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KCRP</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 27.784017</td></tr>
+    <tr><td>LONGITUDE: -97.51125</td></tr>
+    <tr><td>ELEVATION: 142 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-97.51125,27.784017,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="104">
+  <name><![CDATA[EGLIN AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KEVX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 30.565033</td></tr>
+    <tr><td>LONGITUDE: -85.921667</td></tr>
+    <tr><td>ELEVATION: 221 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-85.921667,30.565033,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="105">
+  <name><![CDATA[ATLANTA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KFFC</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.36355</td></tr>
+    <tr><td>LONGITUDE: -84.56595</td></tr>
+    <tr><td>ELEVATION: 972 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-84.56595,33.36355,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="106">
+  <name><![CDATA[FLAGSTAFF]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KFSX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 34.574333</td></tr>
+    <tr><td>LONGITUDE: -111.198444</td></tr>
+    <tr><td>ELEVATION: 7514 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-111.198444,34.574333,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="107">
+  <name><![CDATA[GLASGOW]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KGGW</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 48.206361</td></tr>
+    <tr><td>LONGITUDE: -106.624694</td></tr>
+    <tr><td>ELEVATION: 2384 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-106.624694,48.206361,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="108">
+  <name><![CDATA[COLUMBUS AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KGWX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.896917</td></tr>
+    <tr><td>LONGITUDE: -88.329194</td></tr>
+    <tr><td>ELEVATION: 590 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-88.329194,33.896917,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="109">
+  <name><![CDATA[FT POLK]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KPOE</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 31.155278</td></tr>
+    <tr><td>LONGITUDE: -92.976111</td></tr>
+    <tr><td>ELEVATION: 473 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-92.976111,31.155278,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="110">
+  <name><![CDATA[TULSA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KINX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 36.175131</td></tr>
+    <tr><td>LONGITUDE: -95.564161</td></tr>
+    <tr><td>ELEVATION: 749 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-95.564161,36.175131,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="111">
+  <name><![CDATA[LAKE CHARLES]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLCH</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 30.125306</td></tr>
+    <tr><td>LONGITUDE: -93.215889</td></tr>
+    <tr><td>ELEVATION: 137 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-93.215889,30.125306,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="112">
+  <name><![CDATA[WILMINGTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLTX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.98915</td></tr>
+    <tr><td>LONGITUDE: -78.429108</td></tr>
+    <tr><td>ELEVATION: 145 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-78.429108,33.98915,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="113">
+  <name><![CDATA[MEDFORD]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMAX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 42.081169</td></tr>
+    <tr><td>LONGITUDE: -122.717369</td></tr>
+    <tr><td>ELEVATION: 7561 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-122.717369,42.081169,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="114">
+  <name><![CDATA[SPRINGFIELD]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KSGF</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 37.235239</td></tr>
+    <tr><td>LONGITUDE: -93.400419</td></tr>
+    <tr><td>ELEVATION: 1375 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-93.400419,37.235239,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="115">
+  <name><![CDATA[SANTA ANA MOUNTAINS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KSOX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.817733</td></tr>
+    <tr><td>LONGITUDE: -117.636</td></tr>
+    <tr><td>ELEVATION: 3106 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-117.636,33.817733,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="116">
+  <name><![CDATA[MOODY AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KVAX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 30.890278</td></tr>
+    <tr><td>LONGITUDE: -83.001806</td></tr>
+    <tr><td>ELEVATION: 330 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-83.001806,30.890278,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="117">
+  <name><![CDATA[MIAMI]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TMIA</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 25.758056</td></tr>
+    <tr><td>LONGITUDE: -80.491111</td></tr>
+    <tr><td>ELEVATION: 125 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-80.491111,25.758056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="118">
+  <name><![CDATA[RAFAEL HERNANDEZ AP]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TJBQ</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 18.485</td></tr>
+    <tr><td>LONGITUDE: -67.143</td></tr>
+    <tr><td>ELEVATION: 280 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-67.143,18.485,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="119">
+  <name><![CDATA[CHICAGO MIDWAY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TMDW</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.651111</td></tr>
+    <tr><td>LONGITUDE: -87.73</td></tr>
+    <tr><td>ELEVATION: 764 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-87.73,41.651111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="120">
+  <name><![CDATA[KANSAS CITY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TMCI</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.498056</td></tr>
+    <tr><td>LONGITUDE: -94.741944</td></tr>
+    <tr><td>ELEVATION: 1089 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-94.741944,39.498056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="121">
+  <name><![CDATA[PHOENIX]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TPHX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.421111</td></tr>
+    <tr><td>LONGITUDE: -112.16305</td></tr>
+    <tr><td>ELEVATION: 1089 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-112.16305,33.421111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="122">
+  <name><![CDATA[SAN JUAN]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TSJU</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 18.473889</td></tr>
+    <tr><td>LONGITUDE: -66.178889</td></tr>
+    <tr><td>ELEVATION: 157 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-66.178889,18.473889,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="123">
+  <name><![CDATA[HUNTSVILLE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KHTX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 34.930556</td></tr>
+    <tr><td>LONGITUDE: -86.083611</td></tr>
+    <tr><td>ELEVATION: 1859 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-86.083611,34.930556,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="124">
+  <name><![CDATA[ALBUQUERQUE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KABX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.149722</td></tr>
+    <tr><td>LONGITUDE: -106.823889</td></tr>
+    <tr><td>ELEVATION: 5951 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-106.823889,35.149722,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="125">
+  <name><![CDATA[NORFOLK RICH]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KAKQ</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 36.98405</td></tr>
+    <tr><td>LONGITUDE: -77.007361</td></tr>
+    <tr><td>ELEVATION: 255 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-77.007361,36.98405,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="126">
+  <name><![CDATA[DAVENPORT]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KDVN</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.611667</td></tr>
+    <tr><td>LONGITUDE: -90.580833</td></tr>
+    <tr><td>ELEVATION: 851 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-90.580833,41.611667,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="127">
+  <name><![CDATA[CEDAR CITY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KICX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 37.59105</td></tr>
+    <tr><td>LONGITUDE: -112.862183</td></tr>
+    <tr><td>ELEVATION: 10757 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-112.862183,37.59105,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="128">
+  <name><![CDATA[MIDLAND ODESSA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMAF</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 31.943461</td></tr>
+    <tr><td>LONGITUDE: -102.18925</td></tr>
+    <tr><td>ELEVATION: 2962 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-102.18925,31.943461,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="129">
+  <name><![CDATA[SALT LAKE CITY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMTX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.262778</td></tr>
+    <tr><td>LONGITUDE: -112.447778</td></tr>
+    <tr><td>ELEVATION: 6594 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-112.447778,41.262778,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="130">
+  <name><![CDATA[SAN DIEGO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KNKX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 32.919017</td></tr>
+    <tr><td>LONGITUDE: -117.0418</td></tr>
+    <tr><td>ELEVATION: 1052 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-117.0418,32.919017,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="131">
+  <name><![CDATA[NYC]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KOKX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.865528</td></tr>
+    <tr><td>LONGITUDE: -72.863917</td></tr>
+    <tr><td>ELEVATION: 199 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-72.863917,40.865528,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="132">
+  <name><![CDATA[SITKA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PACG</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 56.852778</td></tr>
+    <tr><td>LONGITUDE: -135.529167</td></tr>
+    <tr><td>ELEVATION: 272 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-135.529167,56.852778,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="133">
+  <name><![CDATA[HOUSTON INTL]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TIAH</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 30.065</td></tr>
+    <tr><td>LONGITUDE: -95.566944</td></tr>
+    <tr><td>ELEVATION: 253 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-95.566944,30.065,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="134">
+  <name><![CDATA[BALTIMORE WASHINGTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TBWI</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.09</td></tr>
+    <tr><td>LONGITUDE: -76.63</td></tr>
+    <tr><td>ELEVATION: 299 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-76.63,39.09,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="135">
+  <name><![CDATA[COLUMBUS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TCMH</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.006111</td></tr>
+    <tr><td>LONGITUDE: -82.715</td></tr>
+    <tr><td>ELEVATION: 1148 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-82.715,40.006111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="136">
+  <name><![CDATA[ORLANDO INTL]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TMCO</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 28.343889</td></tr>
+    <tr><td>LONGITUDE: -81.326111</td></tr>
+    <tr><td>ELEVATION: 171 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-81.326111,28.343889,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="137">
+  <name><![CDATA[AMARILLO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KAMA</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.233333</td></tr>
+    <tr><td>LONGITUDE: -101.709278</td></tr>
+    <tr><td>ELEVATION: 3703 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-101.709278,35.233333,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="138">
+  <name><![CDATA[MIAMI]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KAMX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 25.611083</td></tr>
+    <tr><td>LONGITUDE: -80.412667</td></tr>
+    <tr><td>ELEVATION: 111 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-80.412667,25.611083,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="139">
+  <name><![CDATA[BUFFALO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KBUF</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 42.948789</td></tr>
+    <tr><td>LONGITUDE: -78.736781</td></tr>
+    <tr><td>ELEVATION: 790 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-78.736781,42.948789,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="140">
+  <name><![CDATA[CLEVELAND]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KCLE</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.413217</td></tr>
+    <tr><td>LONGITUDE: -81.859867</td></tr>
+    <tr><td>ELEVATION: 860 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-81.859867,41.413217,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="141">
+  <name><![CDATA[SACRAMENTO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KDAX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.501111</td></tr>
+    <tr><td>LONGITUDE: -121.677833</td></tr>
+    <tr><td>ELEVATION: 144 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-121.677833,38.501111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="142">
+  <name><![CDATA[DULUTH]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KDLH</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 46.836944</td></tr>
+    <tr><td>LONGITUDE: -92.209722</td></tr>
+    <tr><td>ELEVATION: 1542 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-92.209722,46.836944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="143">
+  <name><![CDATA[WICHITA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KICT</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 37.654444</td></tr>
+    <tr><td>LONGITUDE: -97.443056</td></tr>
+    <tr><td>ELEVATION: 1400 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-97.443056,37.654444,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="144">
+  <name><![CDATA[GOODLAND]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KGLD</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.366944</td></tr>
+    <tr><td>LONGITUDE: -101.700278</td></tr>
+    <tr><td>ELEVATION: 3716 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-101.700278,39.366944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="145">
+  <name><![CDATA[SAN JOAQUIN VALLEY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KHNX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 36.314181</td></tr>
+    <tr><td>LONGITUDE: -119.632139</td></tr>
+    <tr><td>ELEVATION: 340 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-119.632139,36.314181,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="146">
+  <name><![CDATA[LINCOLN]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KILX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.1505</td></tr>
+    <tr><td>LONGITUDE: -89.336792</td></tr>
+    <tr><td>ELEVATION: 731 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-89.336792,40.1505,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="147">
+  <name><![CDATA[N PLATTE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLNX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.957944</td></tr>
+    <tr><td>LONGITUDE: -100.576222</td></tr>
+    <tr><td>ELEVATION: 3113 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-100.576222,41.957944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="148">
+  <name><![CDATA[MELBOURNE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMLB</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 28.113194</td></tr>
+    <tr><td>LONGITUDE: -80.654083</td></tr>
+    <tr><td>ELEVATION: 149 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-80.654083,28.113194,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="149">
+  <name><![CDATA[MEMPHIS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KNQA</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.344722</td></tr>
+    <tr><td>LONGITUDE: -89.873333</td></tr>
+    <tr><td>ELEVATION: 435 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-89.873333,35.344722,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="150">
+  <name><![CDATA[PENDLETON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KPDT</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 45.69065</td></tr>
+    <tr><td>LONGITUDE: -118.852931</td></tr>
+    <tr><td>ELEVATION: 1580 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-118.852931,45.69065,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="151">
+  <name><![CDATA[RIVERTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KRIW</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 43.066089</td></tr>
+    <tr><td>LONGITUDE: -108.4773</td></tr>
+    <tr><td>ELEVATION: 5633 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-108.4773,43.066089,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="152">
+  <name><![CDATA[TAMPA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KTBW</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 27.7055</td></tr>
+    <tr><td>LONGITUDE: -82.401778</td></tr>
+    <tr><td>ELEVATION: 122 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-82.401778,27.7055,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="153">
+  <name><![CDATA[KAMUELA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PHKM</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 20.125278</td></tr>
+    <tr><td>LONGITUDE: -155.777778</td></tr>
+    <tr><td>ELEVATION: 3966 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-155.777778,20.125278,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="154">
+  <name><![CDATA[SAN JUAN]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TJUA</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 18.115667</td></tr>
+    <tr><td>LONGITUDE: -66.078167</td></tr>
+    <tr><td>ELEVATION: 2958 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-66.078167,18.115667,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="155">
+  <name><![CDATA[LANGLEY HILL NW WASHIN]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLGX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 47.116944</td></tr>
+    <tr><td>LONGITUDE: -124.106667</td></tr>
+    <tr><td>ELEVATION: 366 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-124.106667,47.116944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="156">
+  <name><![CDATA[INDIANAPOLIS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TIDS</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.636944</td></tr>
+    <tr><td>LONGITUDE: -86.436111</td></tr>
+    <tr><td>ELEVATION: 846 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-86.436111,39.636944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="157">
+  <name><![CDATA[ATLANTA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TATL</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.646944</td></tr>
+    <tr><td>LONGITUDE: -84.261944</td></tr>
+    <tr><td>ELEVATION: 1076 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-84.261944,33.646944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="158">
+  <name><![CDATA[CHARLOTTE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TCLT</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.336944</td></tr>
+    <tr><td>LONGITUDE: -80.885</td></tr>
+    <tr><td>ELEVATION: 869 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-80.885,35.336944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="159">
+  <name><![CDATA[NEWARK]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TEWR</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.593056</td></tr>
+    <tr><td>LONGITUDE: -74.27</td></tr>
+    <tr><td>ELEVATION: 135 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-74.27,40.593056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="160">
+  <name><![CDATA[DENVER FRONT RANGE AP]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KFTG</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.786639</td></tr>
+    <tr><td>LONGITUDE: -104.545806</td></tr>
+    <tr><td>ELEVATION: 5611 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-104.545806,39.786639,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="161">
+  <name><![CDATA[EVANSVILLE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KVWX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.26025</td></tr>
+    <tr><td>LONGITUDE: -87.724528</td></tr>
+    <tr><td>ELEVATION: 625 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-87.724528,38.26025,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="162">
+  <name><![CDATA[BOISE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KCBX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 43.490217</td></tr>
+    <tr><td>LONGITUDE: -116.236033</td></tr>
+    <tr><td>ELEVATION: 3172 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-116.236033,43.490217,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="163">
+  <name><![CDATA[BURLINGTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KCXX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 44.511</td></tr>
+    <tr><td>LONGITUDE: -73.166431</td></tr>
+    <tr><td>ELEVATION: 431 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-73.166431,44.511,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="164">
+  <name><![CDATA[PHILA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KDIX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.947089</td></tr>
+    <tr><td>LONGITUDE: -74.410731</td></tr>
+    <tr><td>ELEVATION: 230 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-74.410731,39.947089,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="165">
+  <name><![CDATA[DYESS AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KDYX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 32.5385</td></tr>
+    <tr><td>LONGITUDE: -99.254333</td></tr>
+    <tr><td>ELEVATION: 1582 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-99.254333,32.5385,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="166">
+  <name><![CDATA[GRAND JUNCTION]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KGJX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.062169</td></tr>
+    <tr><td>LONGITUDE: -108.213761</td></tr>
+    <tr><td>ELEVATION: 10101 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-108.213761,39.062169,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="167">
+  <name><![CDATA[HOUSTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KHGX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 29.4719</td></tr>
+    <tr><td>LONGITUDE: -95.078733</td></tr>
+    <tr><td>ELEVATION: 115 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-95.078733,29.4719,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="168">
+  <name><![CDATA[INDIANAPOLIS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KIND</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.7075</td></tr>
+    <tr><td>LONGITUDE: -86.280278</td></tr>
+    <tr><td>ELEVATION: 887 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-86.280278,39.7075,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="169">
+  <name><![CDATA[PHOENIX]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KIWA</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.289233</td></tr>
+    <tr><td>LONGITUDE: -111.669917</td></tr>
+    <tr><td>ELEVATION: 1426 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-111.669917,33.289233,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="170">
+  <name><![CDATA[ROBINS AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KJGX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 32.675683</td></tr>
+    <tr><td>LONGITUDE: -83.350833</td></tr>
+    <tr><td>ELEVATION: 618 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-83.350833,32.675683,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="171">
+  <name><![CDATA[STERLING]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLWX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.976111</td></tr>
+    <tr><td>LONGITUDE: -77.4875</td></tr>
+    <tr><td>ELEVATION: 404 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-77.4875,38.976111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="172">
+  <name><![CDATA[LITTLE ROCK]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLZK</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 34.8365</td></tr>
+    <tr><td>LONGITUDE: -92.262194</td></tr>
+    <tr><td>ELEVATION: 649 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-92.262194,34.8365,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="173">
+  <name><![CDATA[MILWAUKEE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMKX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 42.9679</td></tr>
+    <tr><td>LONGITUDE: -88.550667</td></tr>
+    <tr><td>ELEVATION: 1023 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-88.550667,42.9679,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="174">
+  <name><![CDATA[KNOXVILLE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMRX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 36.168611</td></tr>
+    <tr><td>LONGITUDE: -83.401944</td></tr>
+    <tr><td>ELEVATION: 1434 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-83.401944,36.168611,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="175">
+  <name><![CDATA[MAXWELL AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMXX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 32.53665</td></tr>
+    <tr><td>LONGITUDE: -85.78975</td></tr>
+    <tr><td>ELEVATION: 560 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-85.78975,32.53665,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="176">
+  <name><![CDATA[LOS ANGELES]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KVTX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 34.412017</td></tr>
+    <tr><td>LONGITUDE: -119.17875</td></tr>
+    <tr><td>ELEVATION: 2807 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-119.17875,34.412017,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="177">
+  <name><![CDATA[NASHVILLE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KOHX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 36.247222</td></tr>
+    <tr><td>LONGITUDE: -86.5625</td></tr>
+    <tr><td>ELEVATION: 676 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-86.5625,36.247222,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="178">
+  <name><![CDATA[PITTSBURGH]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KPBZ</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.531717</td></tr>
+    <tr><td>LONGITUDE: -80.217967</td></tr>
+    <tr><td>ELEVATION: 1266 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-80.217967,40.531717,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="179">
+  <name><![CDATA[RALEIGH DURHAM]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KRAX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.665519</td></tr>
+    <tr><td>LONGITUDE: -78.48975</td></tr>
+    <tr><td>ELEVATION: 462 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-78.48975,35.665519,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="180">
+  <name><![CDATA[NOME]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PAEC</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 64.511389</td></tr>
+    <tr><td>LONGITUDE: -165.295</td></tr>
+    <tr><td>ELEVATION: 90 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-165.295,64.511389,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="181">
+  <name><![CDATA[SIOUX FALLS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KFSD</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 43.587778</td></tr>
+    <tr><td>LONGITUDE: -96.729444</td></tr>
+    <tr><td>ELEVATION: 1495 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-96.729444,43.587778,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="182">
+  <name><![CDATA[FAIRBANKS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:PAPD</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 65.035114</td></tr>
+    <tr><td>LONGITUDE: -147.501431</td></tr>
+    <tr><td>ELEVATION: 2707 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-147.501431,65.035114,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="183">
+  <name><![CDATA[CAMP HUMPHREYS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:RKSG</td></tr>
+    <tr><td>COUNTRY: KOREA, SOUTH</td></tr>
+    <tr><td>LATITUDE: 37.207569</td></tr>
+    <tr><td>LONGITUDE: 127.285561</td></tr>
+    <tr><td>ELEVATION: 1521 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>127.285561,37.207569,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="184">
+  <name><![CDATA[DALLAS LOVE FLD]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TDAL</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 32.926111</td></tr>
+    <tr><td>LONGITUDE: -96.968056</td></tr>
+    <tr><td>ELEVATION: 623 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-96.968056,32.926111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="185">
+  <name><![CDATA[DENVER]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TDEN</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.728056</td></tr>
+    <tr><td>LONGITUDE: -104.52611</td></tr>
+    <tr><td>ELEVATION: 5702 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-104.52611,39.728056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="186">
+  <name><![CDATA[PHILA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TPHL</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 39.948889</td></tr>
+    <tr><td>LONGITUDE: -75.068889</td></tr>
+    <tr><td>ELEVATION: 154 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-75.068889,39.948889,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="187">
+  <name><![CDATA[LAS VEGAS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TLAS</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 36.143889</td></tr>
+    <tr><td>LONGITUDE: -115.00694</td></tr>
+    <tr><td>ELEVATION: 2057 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-115.00694,36.143889,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="188">
+  <name><![CDATA[MINNEAPOLIS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TMSP</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 44.871111</td></tr>
+    <tr><td>LONGITUDE: -92.933056</td></tr>
+    <tr><td>ELEVATION: 1122 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-92.933056,44.871111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="189">
+  <name><![CDATA[SALT LAKE CITY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TSLC</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.966944</td></tr>
+    <tr><td>LONGITUDE: -111.93</td></tr>
+    <tr><td>ELEVATION: 4295 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-111.93,40.966944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="190">
+  <name><![CDATA[TAMPA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TTPA</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 27.86</td></tr>
+    <tr><td>LONGITUDE: -82.518056</td></tr>
+    <tr><td>ELEVATION: 92 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-82.518056,27.86,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="191">
+  <name><![CDATA[TULSA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TTUL</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 36.071111</td></tr>
+    <tr><td>LONGITUDE: -95.826944</td></tr>
+    <tr><td>ELEVATION: 823 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-95.826944,36.071111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="192">
+  <name><![CDATA[DES MOINES]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KDMX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.7312</td></tr>
+    <tr><td>LONGITUDE: -93.722869</td></tr>
+    <tr><td>ELEVATION: 1095 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-93.722869,41.7312,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="193">
+  <name><![CDATA[GAYLORD]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KAPX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 44.90635</td></tr>
+    <tr><td>LONGITUDE: -84.719533</td></tr>
+    <tr><td>ELEVATION: 1561 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-84.719533,44.90635,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="194">
+  <name><![CDATA[BROWNSVILLE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KBRO</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 25.916</td></tr>
+    <tr><td>LONGITUDE: -97.418967</td></tr>
+    <tr><td>ELEVATION: 88 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-97.418967,25.916,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="195">
+  <name><![CDATA[CHEYENNE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KCYS</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 41.151919</td></tr>
+    <tr><td>LONGITUDE: -104.806031</td></tr>
+    <tr><td>ELEVATION: 6193 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-104.806031,41.151919,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="196">
+  <name><![CDATA[ROANOKE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KFCX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 37.0244</td></tr>
+    <tr><td>LONGITUDE: -80.273969</td></tr>
+    <tr><td>ELEVATION: 2965 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-80.273969,37.0244,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="197">
+  <name><![CDATA[ALTUS AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KFDR</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 34.362194</td></tr>
+    <tr><td>LONGITUDE: -98.976667</td></tr>
+    <tr><td>ELEVATION: 1315 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-98.976667,34.362194,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="198">
+  <name><![CDATA[GRAND RAPIDS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KGRR</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 42.893889</td></tr>
+    <tr><td>LONGITUDE: -85.544889</td></tr>
+    <tr><td>ELEVATION: 875 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-85.544889,42.893889,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="199">
+  <name><![CDATA[ST LOUIS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KLSX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 38.698611</td></tr>
+    <tr><td>LONGITUDE: -90.682778</td></tr>
+    <tr><td>ELEVATION: 722 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-90.682778,38.698611,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="200">
+  <name><![CDATA[MINNEAPOLIS]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KMPX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 44.848889</td></tr>
+    <tr><td>LONGITUDE: -93.565528</td></tr>
+    <tr><td>ELEVATION: 1101 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-93.565528,44.848889,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="201">
+  <name><![CDATA[TALLAHASSEE]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KTLH</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 30.397583</td></tr>
+    <tr><td>LONGITUDE: -84.328944</td></tr>
+    <tr><td>ELEVATION: 177 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-84.328944,30.397583,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="202">
+  <name><![CDATA[VANCE AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KVNX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 36.740617</td></tr>
+    <tr><td>LONGITUDE: -98.127717</td></tr>
+    <tr><td>ELEVATION: 1258 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-98.127717,36.740617,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="203">
+  <name><![CDATA[YUMA]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KYUX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 32.495281</td></tr>
+    <tr><td>LONGITUDE: -114.656711</td></tr>
+    <tr><td>ELEVATION: 239 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-114.656711,32.495281,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="204">
+  <name><![CDATA[HOLLOMAN AFB]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KHDX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 33.077</td></tr>
+    <tr><td>LONGITUDE: -106.120033</td></tr>
+    <tr><td>ELEVATION: 4270 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-106.120033,33.077,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="205">
+  <name><![CDATA[FT SMITH]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KSRX</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.290417</td></tr>
+    <tr><td>LONGITUDE: -94.361889</td></tr>
+    <tr><td>ELEVATION: 737 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-94.361889,35.290417,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="206">
+  <name><![CDATA[BOSTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TBOS</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 42.158056</td></tr>
+    <tr><td>LONGITUDE: -70.933056</td></tr>
+    <tr><td>ELEVATION: 262 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-70.933056,42.158056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="207">
+  <name><![CDATA[DAYTON]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TDAY</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 40.021944</td></tr>
+    <tr><td>LONGITUDE: -84.123056</td></tr>
+    <tr><td>ELEVATION: 1020 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-84.123056,40.021944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="208">
+  <name><![CDATA[HOUSTON HOBBY]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:THOU</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 29.516111</td></tr>
+    <tr><td>LONGITUDE: -95.241944</td></tr>
+    <tr><td>ELEVATION: 118 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-95.241944,29.516111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="209">
+  <name><![CDATA[NORMAN WFO]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TOKC</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.276111</td></tr>
+    <tr><td>LONGITUDE: -97.51</td></tr>
+    <tr><td>ELEVATION: 1309 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-97.51,35.276111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="210">
+  <name><![CDATA[RALEIGH]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TRDU</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 36.001944</td></tr>
+    <tr><td>LONGITUDE: -78.696944</td></tr>
+    <tr><td>ELEVATION: 515 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-78.696944,36.001944,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="211">
+  <name><![CDATA[W PALM BEACH]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:TPBI</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 26.688056</td></tr>
+    <tr><td>LONGITUDE: -80.273056</td></tr>
+    <tr><td>ELEVATION: 135 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-80.273056,26.688056,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark id="212">
+  <name><![CDATA[NORMAN NSSL]]></name>
+  <description>
+    <![CDATA[
+<table>
+    <tr><td>ID: NEXRAD:KOUN</td></tr>
+    <tr><td>COUNTRY: UNITED STATES</td></tr>
+    <tr><td>LATITUDE: 35.236058</td></tr>
+    <tr><td>LONGITUDE: -97.46235</td></tr>
+    <tr><td>ELEVATION: 1284 m.</td></tr>
+    <tr><td></td></tr>
+</table>
+<table>
+<tr>
+    <td>
+        <form action="https://www.ncdc.noaa.gov/cdo-web/mapReview" method="post">
+            <input type="hidden" name="_dataSet" value="NEXRAD"/><input type="hidden" name="_stationId" value="STATION_ID"/>
+            <input type="submit" value="Access Station Data"/>
+        </form>
+    </td>
+</tr>
+</table> ]]>
+  </description>
+  <Point>
+    <coordinates>-97.46235,35.236058,0</coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>
